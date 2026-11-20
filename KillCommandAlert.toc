@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Kill Command Alert
+## Notes: Shows an icon in the middle of the screen when Kill Command procs.
+## Author: Claude
+## Version: 1.2
+## SavedVariables: KillCommandAlertDB
+KillCommandAlert.lua
